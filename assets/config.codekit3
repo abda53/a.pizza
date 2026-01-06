@@ -9,12 +9,6 @@
   ],
   "creatorBuild" : "34892",
   "files" : {
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
-    },
     "\/source\/css\/animate.scss" : {
       "aP" : 1,
       "bl" : 0,
@@ -505,7 +499,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-peach",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 789390230.02119696
+    "lastBuiltDate" : 789390571.76863205
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
