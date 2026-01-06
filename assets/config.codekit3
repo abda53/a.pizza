@@ -7,7 +7,7 @@
       "uuidString" : "81EA8B6F-79F8-4DDD-8D4D-8F718DB7E70D"
     }
   ],
-  "creatorBuild" : "34564",
+  "creatorBuild" : "34892",
   "files" : {
     "\/build" : {
       "ft" : 65536,
@@ -19,7 +19,6 @@
       "aP" : 1,
       "bl" : 0,
       "co" : 1,
-      "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
@@ -27,14 +26,12 @@
       "oAP" : "\/build\/css\/animate.css",
       "oF" : 0,
       "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
+      "pg" : 0
     },
     "\/source\/css\/bootstrap.min.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 1,
-      "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
@@ -42,14 +39,12 @@
       "oAP" : "\/build\/css\/bootstrap.min.css",
       "oF" : 0,
       "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
+      "pg" : 0
     },
     "\/source\/css\/font-awesome.min.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 1,
-      "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
@@ -57,14 +52,12 @@
       "oAP" : "\/build\/css\/font-awesome.min.css",
       "oF" : 0,
       "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
+      "pg" : 0
     },
     "\/source\/css\/magnific-popup.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 1,
-      "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
@@ -72,14 +65,12 @@
       "oAP" : "\/build\/css\/magnific-popup.css",
       "oF" : 0,
       "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
+      "pg" : 0
     },
     "\/source\/css\/owl.carousel.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 1,
-      "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
@@ -87,14 +78,12 @@
       "oAP" : "\/build\/css\/owl.carousel.css",
       "oF" : 0,
       "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
+      "pg" : 0
     },
     "\/source\/css\/owl.theme.default.min.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 1,
-      "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
@@ -102,14 +91,12 @@
       "oAP" : "\/build\/css\/owl.theme.default.min.css",
       "oF" : 0,
       "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
+      "pg" : 0
     },
     "\/source\/css\/style.scss" : {
       "aP" : 1,
       "bl" : 0,
       "co" : 1,
-      "dP" : 10,
       "ec" : 1,
       "ft" : 4,
       "ma" : 0,
@@ -117,8 +104,7 @@
       "oAP" : "\/build\/css\/style.css",
       "oF" : 0,
       "oS" : 3,
-      "pg" : 0,
-      "sct" : 0
+      "pg" : 0
     },
     "\/source\/fonts\/fontawesome-webfont.eot" : {
       "cB" : 0,
@@ -201,6 +187,17 @@
       "iS" : 74264,
       "oA" : 0,
       "oAP" : "\/build\/images\/pizaa-eating2.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/source\/images\/pizza-audition.webp" : {
+      "ft" : 8388608,
+      "iS" : 85630,
+      "oA" : 0,
+      "oAP" : "\/build\/images\/pizza-audition.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
@@ -508,7 +505,7 @@
     "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-peach",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 730273910.63636994
+    "lastBuiltDate" : 789388974.15003395
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
@@ -806,8 +803,6 @@
     "buildFolderActive" : 1,
     "buildFolderName" : "build",
     "cleanBuild" : 1,
-    "cssoForceMediaMerge" : 0,
-    "cssoRestructure" : 1,
     "environmentVariableEntries" : [
       "NODE_ENV:::production"
     ],
@@ -1008,10 +1003,6 @@
         "active" : 0,
         "optionString" : "{'before': true, 'after': true, 'overrides': {}}"
       },
-      "line-comment-position" : {
-        "active" : 0,
-        "optionString" : "{'position': 'above'}"
-      },
       "linebreak-style" : {
         "active" : 0,
         "optionString" : "'unix'"
@@ -1063,10 +1054,6 @@
       "max-statements-per-line" : {
         "active" : 0,
         "optionString" : "{'max': 1}"
-      },
-      "multiline-comment-style" : {
-        "active" : 0,
-        "optionString" : "'starred-block'"
       },
       "multiline-ternary" : {
         "active" : 0,
@@ -1209,7 +1196,8 @@
         "active" : 0
       },
       "no-extra-boolean-cast" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'enforceForInnerExpressions': false}"
       },
       "no-extra-label" : {
         "active" : 0
@@ -1294,7 +1282,8 @@
         "optionString" : "{'ignore': [], 'ignoreArrayIndexes': true, 'ignoreDefaultValues': false, 'ignoreClassFieldInitialValues': false, 'enforceConst': false, 'detectObjects': false}"
       },
       "no-misleading-character-class" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'allowEscape': false}"
       },
       "no-mixed-operators" : {
         "active" : 0,
@@ -1450,6 +1439,9 @@
         "active" : 0,
         "optionString" : "{'skipBlankLines': false, 'ignoreComments': false}"
       },
+      "no-unassigned-vars" : {
+        "active" : 0
+      },
       "no-undef" : {
         "active" : 1,
         "optionString" : "{'typeof': false}"
@@ -1530,7 +1522,8 @@
         "active" : 0
       },
       "no-useless-escape" : {
-        "active" : 1
+        "active" : 1,
+        "optionString" : "{'allowRegexCharacters': []}"
       },
       "no-useless-rename" : {
         "active" : 0,
@@ -1662,7 +1655,8 @@
         "active" : 0
       },
       "require-unicode-regexp" : {
-        "active" : 0
+        "active" : 0,
+        "optionString" : "{'requireFlag': 'u'}"
       },
       "require-yield" : {
         "active" : 1
@@ -1953,9 +1947,7 @@
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
       "autoOutputPathStyle" : 3,
-      "compilerType" : 0,
       "cssoStyle" : 1,
-      "decimalPrecision" : 10,
       "emitCharset" : 1,
       "outputStyle" : 3,
       "purgeCSSStyle" : 0,
@@ -2072,6 +2064,7 @@
     ],
     "rollupTreeshakingEnabled" : 1,
     "rollupTreeshakingModuleSideEffects" : 1,
+    "sassWarningStyle" : 1,
     "skippedFoldersString" : "log, _logs, logs, _cache, cache, .idea, \/storage\/framework\/sessions, node_modules",
     "sourceFolderName" : "source",
     "susyVersion" : 3,
@@ -2092,6 +2085,7 @@
     "tsImportHelpers" : 0,
     "tsIsolatedModules" : 0,
     "tsJSXFactory" : "React.createElement",
+    "tsJSXFragmentFactory" : "Fragment",
     "tsNoEmitHelpers" : 0,
     "tsNoFallthroughCasesInSwitch" : 0,
     "tsNoImplicitAny" : 0,

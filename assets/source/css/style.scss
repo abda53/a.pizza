@@ -1,3 +1,10 @@
+@use "animate.scss" as *;
+@use "bootstrap.min.scss" as *;
+@use "font-awesome.min.scss" as *;
+@use "magnific-popup.scss" as *;
+@use "owl.carousel.scss" as *;
+@use "owl.theme.default.min.scss" as *;
+
 $color_1: #252525;
 $color_2: #353535;
 $color_3: #454545;
@@ -19,13 +26,6 @@ $border-color_1: transparent;
 $border-top-color_1: #ffffff;
 
 @import "https://fonts.googleapis.com/css?family=Montserrat:400,700";
-
-@import "animate.scss";
-@import "bootstrap.min.scss";
-@import "font-awesome.min.scss";
-@import "magnific-popup.scss";
-@import "owl.carousel.scss";
-@import "owl.theme.default.min.scss";
 
 
 /*---------------------------------------
@@ -111,7 +111,7 @@ h6 {
 }
 p {
 	color: $color_4;
-	font-size: 14px;
+	font-size: 19px;
 	font-weight: normal;
 	line-height: 24px;
 }
